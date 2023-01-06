@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/adityabindra01/adityabindra/blob/main/fun_coder.gif" alt="Coder GIF" width="400" height="300">
+<img align="right" src="https://github.com/adityabindra01/adityabindra01/blob/main/fun_coder.gif" alt="Coder GIF" width="400" height="300">
 
 ### Welcome to Aditya's GitHub! 🧑‍💻 
 [![Linkedin Badge](https://img.shields.io/badge/-adityabindra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityabindra01/)](https://www.linkedin.com/in/adityabindra01/)
