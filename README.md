@@ -27,5 +27,5 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
 <div align="center">
-    <h3 align="center">Made with &nbsp;❤️&nbsp; and &nbsp;🧠&nbsp; to track my dev journey!</h3>
+    <h3 align="center">Made with &nbsp;❤️&nbsp; and &nbsp;🧠&nbsp; to track my journey!</h3>
 </div>
